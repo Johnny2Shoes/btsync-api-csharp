@@ -44,7 +44,10 @@
   <ItemGroup>
     <Compile Include="BTClient.cs" />
     <Compile Include="Models\Folder.cs" />
+    <Compile Include="Models\FolderHosts.cs" />
     <Compile Include="Models\FolderItem.cs" />
+    <Compile Include="Models\FolderPeer.cs" />
+    <Compile Include="Models\FolderPreferences.cs" />
     <Compile Include="Models\OSNameResponse.cs" />
     <Compile Include="Models\Preferences.cs" />
     <Compile Include="Models\Response.cs" />
